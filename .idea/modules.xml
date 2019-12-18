@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DateText.iml" filepath="$PROJECT_DIR$/.idea/DateText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text/Text.iml" filepath="$PROJECT_DIR$/Text/Text.iml" />
+    </modules>
+  </component>
+</project>
